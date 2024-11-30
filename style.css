@@ -3,7 +3,7 @@ body {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 body {
-  background-color: rgb(48, 48, 220);
+  background-color: blue;
 }
 .d-flex {
   display: flex;
@@ -15,8 +15,8 @@ section {
   width: 400 px;
 }
 h1 {
-  color: rgb(192, 143, 17);
-  text-emphasis-color: 
+  color: goldenrod;
+  text-emphasis-color: ;
 }
 h2 {
   color: darkgoldenrod;
