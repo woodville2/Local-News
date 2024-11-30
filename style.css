@@ -12,6 +12,6 @@ main { gap: 80px
 }
 section { width 400 px;
 }
-.h1 { color: yellow;
+.h1 { heading-color: rgb(235, 235, 11);
    ;
 }
