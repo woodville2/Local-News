@@ -12,6 +12,7 @@ main { gap: 80px
 }
 section { width 400 px;
 }
-.h1 { heading-color: rgb(235, 235, 11);
+.h1 { 
+  color: rgb(235, 235, 11);
    ;
 }
