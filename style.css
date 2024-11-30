@@ -13,7 +13,7 @@ main { gap: 80px
 section { width 400 px;
 }
 h1 { 
-  color: rgb(235, 235, 11);
+  color: rgb(235, 235, 11); text text-emphasis-color:  
    ;
 }
 h2 { color:darkgoldenrod}
