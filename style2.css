@@ -1,0 +1,19 @@
+ <style>
+        /* Container with Flexbox */
+        .container {
+            display: flex;
+            justify-content: center; /* Centers columns horizontally */
+            align-items: center; /* Centers columns vertically */
+            height: 100vh; /* Full viewport height for centering vertically */
+            gap: 20px; /* Optional: space between columns */
+        }
+        
+        .column {
+            width: 200px;
+            height: 100px;
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            line-height: 100px; /* Vertically centers text inside column */
+        }
+    </style>
