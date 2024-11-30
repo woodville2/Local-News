@@ -3,6 +3,22 @@ body {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 body {
-  background-color: yellow;
+  background-color: rgb(32, 32, 105);
 }
+.d-flex {
+  display: flex;
+}
+main { gap: 80
+  
 
+
+
+
+
+  px
+}
+section { width 400 px;
+}
+.header { color: yellow;
+   ;
+}
