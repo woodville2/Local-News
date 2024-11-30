@@ -9,7 +9,7 @@ body {
   display: flex;
 }
 main {
-  gap: 80px;
+  gap: 80 px;
 }
 section {
   width: 400 px;
