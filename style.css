@@ -8,13 +8,19 @@ body {
 .d-flex {
   display: flex;
 }
-main { gap: 80px
+main {
+  gap: 80px;
 }
-section { width 400 px;
+section {
+  width: 400 px;
 }
-h1 { 
-  color: rgb(235, 235, 11); text text-emphasis-color:  
-   ;
+h1 {
+  color: rgb(235, 235, 11);
+  text-emphasis-color: ;
 }
-h2 { color:darkgoldenrod}
-p{ color: aliceblue;}
+h2 {
+  color: darkgoldenrod;
+}
+p {
+  color: aliceblue;
+}
