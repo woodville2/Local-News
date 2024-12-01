@@ -3,7 +3,7 @@ body {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 body {
-  background-color: blue;
+  background-color: lightgray;
 }
 .d-flex {
   display: flex;
