@@ -9,15 +9,14 @@ body {
   display: flex;
 }
 main {
-  gap: 80
-   px;
+  gap: 80 px;
 }
 section {
   width: 400 px;
 }
 h1 {
   color: blue;
-  text-emphasis-color: 
+  text-emphasis-color: black ;
 }
 h2 {
   color: darkgoldenrod;
